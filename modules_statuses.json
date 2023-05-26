@@ -1,3 +1,7 @@
 {
-    "Prova": true
+    "Prova": true,
+    "NomeModul": true,
+    "Blog": true,
+    "User": true,
+    "Auth": true
 }
